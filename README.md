@@ -8,7 +8,7 @@ Os dados utilizados neste projeto foram obtidos no [site do INEP](https://www.go
 
 ## Metodologia
 
-A análise foi realizada principalmente utilizando a mediana das notas, o que a torna menos sensível a valores extremos (outliers) e mais adequada para uma análise geral do desempenho dos participantes. A análise foi guiada por perguntas como:
+A análise foi realizada principalmente utilizando a mediana das notas, o que a torna menos sensível a valores extremos (outliers). A análise foi guiada por perguntas como:
 
 - Existe alguma disparidade significativa de desempenho entre alunos de escolas públicas e privadas?
 - Como as notas se comparam entre as diferentes regiões do país?
